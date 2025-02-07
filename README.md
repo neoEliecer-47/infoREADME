@@ -3,8 +3,10 @@
 **Building with precision, learning with resilience, and moving forward with purpose.**
 
 🔨Currently working With React, Nextjs, TypeScript, CSS modules and Tailwind
+
 Wanna reach out and work together? 
-![Static Badge](https://img.shields.io/badge/gmail-%23EA4335?style=social&logo=gmail&link=mailto%3Aeliecer.sanchez47%40gmail.com)
+![Static Badge](https://img.shields.io/badge/gmail-red?style=flat&logo=gmail&logoColor=white&link=mailto%3Aeliecer.sanchez47%40gmail.com)
+
 
 # 🍃Quote 
 >*"Discipline is choosing between what you want now and what you want most."* - Abraham Lincoln
