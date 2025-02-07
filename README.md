@@ -1,11 +1,11 @@
-#About me
+# 🧑‍💻About me
 
-Building with precision, learning with resilience, and moving forward with purpose.
+**Building with precision, learning with resilience, and moving forward with purpose.**
 
-Currently working With React, Nextjs, TypeScript, CSS modules and Tailwind
+🔨Currently working With React, Nextjs, TypeScript, CSS modules and Tailwind
 
-#Quote: 
-"Discipline is choosing between what you want now and what you want most." -- Abraham Lincoln
+# 🍃Quote: 
+>*"Discipline is choosing between what you want now and what you want most."* - Abraham Lincoln
 
 # Technologies I have worked with
 
