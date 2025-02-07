@@ -7,7 +7,7 @@
 # 🍃Quote 
 >*"Discipline is choosing between what you want now and what you want most."* - Abraham Lincoln
 
-# Technologies I have worked with
+# ⚙️Technologies
 
 ![Static Badge](https://img.shields.io/badge/react-%231565C0?style=for-the-badge&logo=react)
 ![Static Badge](https://img.shields.io/badge/Next-%23000?style=for-the-badge&logo=next.js)
