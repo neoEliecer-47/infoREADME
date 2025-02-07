@@ -4,10 +4,6 @@
 
 🔨Currently working With React, Nextjs, TypeScript, CSS modules and Tailwind
 
-Wanna reach out and work together? 
-![Static Badge](https://img.shields.io/badge/gmail-red?style=flat&logo=gmail&logoColor=white&link=mailto%3Aeliecer.sanchez47%40gmail.com)
-
-
 # 🍃Quote 
 >*"Discipline is choosing between what you want now and what you want most."* - Abraham Lincoln
 
