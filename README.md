@@ -1,4 +1,4 @@
-# infoREADME
+# Technologies I have worked with
 
 
 ![Static Badge](https://img.shields.io/badge/react-%231565C0?style=for-the-badge&logo=react)
